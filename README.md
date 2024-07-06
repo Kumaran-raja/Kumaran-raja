@@ -1,6 +1,5 @@
 ## R Muthukumaran’s GitHub Profile
 
----
 
 ### Hi there, I'm Muthukumaran! 👋
 
