@@ -41,7 +41,7 @@ I'm an enthusiastic software developer from India, specializing in full stack de
 
 ### 📊 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=arunkabish1&color=blueviolet&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kumaran-raja&color=blueviolet&style=flat)
 
 ---
 
